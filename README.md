@@ -10,7 +10,7 @@
 
 ***
 # Preview
-![](https://media.discordapp.net/attachments/744606263811506176/798978368510885928/unknown.png?width=452&height=567)
+![]()
 
 ***
 # Installation:
