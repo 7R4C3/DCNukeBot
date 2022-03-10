@@ -10,7 +10,7 @@
 
 ***
 # Preview
-![](DCNukeBot/blob/main/Media/Screenshot_2022-03-10_14-14-19.png)
+<link rel='icon' href='Media/Screenshot_2022-03-10_14-14-19.png' type='image/x-icon' />
 
 ***
 # Installation:
